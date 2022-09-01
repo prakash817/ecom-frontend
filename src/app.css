@@ -11,13 +11,13 @@
 }
 
 .ecom > :first-child {
-  background-color: azure;
-  padding: 20px 100px;
+  background-color: rgb(205, 221, 221);
+  padding: 20px 50px;
   width: 60%;
   height: 100vh;
 }
 .ecom > :last-child {
-  background-color: rgb(84, 197, 197);
+  background-color: rgb(205, 221, 221);
   padding: 20px 50px;
   width: 40%;
   height: 100vh;
